@@ -1,0 +1,5 @@
+httpx
+pydantic-settings
+tenacity
+python-dotenv
+supabase
